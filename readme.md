@@ -6,6 +6,8 @@ It's simply using the pillow library to convert images.
 
 # quick start
 
+This is the lightweight repo, my test files aren't included.
+
 ```console
 python convert.py
 ```
@@ -21,5 +23,4 @@ du -sh images/
 452M    images/
 ```
 
-use the lightweight branch if you don't want to pull with all the images.
-
+use the master branch if you want my test files.
