@@ -23,4 +23,4 @@ du -sh images/
 452M    images/
 ```
 
-use the master branch if you want my test files.
+use the lightweight branch if you want to avoid cloning with my test images.
